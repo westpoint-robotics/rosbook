@@ -2,10 +2,8 @@
 This repository contains example code to accompany the book [Programming Robots with ROS](http://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/ref=sr_1_1?ie=UTF8&qid=1453484937&sr=8-1)
 
 # Followbot Instructions
-1. Install OpenCV dependecies
-- 'sudo apt-get install ros-melodic-
-Install the [mavros package](http://wiki.ros.org/mavros) and dependencies (assuming the stable version of ROS is used).
-2. Clone usma_mavros
+1. Install OpenCV dependecies.
+2. Clone rosbook
  - `cd ~/catkin_ws/src`
  - `git clone https://github.com/westpoint-robotics/usma_mavros`
 3. Build
